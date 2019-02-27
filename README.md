@@ -1,4 +1,9 @@
 # Simon-Game
 Simon Game
 
-Built with HTML5, CSS3, JavaScript & JQuery
+The Simon memoery game.
+
+What I learned
+
+- DOM Manipulation
+- Conditionals and loops
