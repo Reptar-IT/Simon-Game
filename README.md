@@ -1,5 +1,5 @@
 # Simon-Game
-The Simon memoery game.
+A challenging memory game famous for being addictively fun.
 
 # What I learned
 DOM Manipulation using:
