@@ -7,6 +7,7 @@ DOM Manipulation using:
 - Functional programming
 - Function calls
 - Arrays
+- Event listeners
 - Push function
 - For loop
 - setTimeout function
